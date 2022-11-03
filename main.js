@@ -3,6 +3,6 @@
 */
 
 //👉 Write the function your CodeWarriors will start with below here:
-function pythagoras(a, b) {
+export function pythagoras(A, B) {
   return C;
 }
